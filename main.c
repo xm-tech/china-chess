@@ -13,8 +13,6 @@
 #define grid_x_num 10
 #define grid_y_num 12
 
-const int red_chess[] = {};
-const int black_chess[] = {};
 
 // 棋子坐标
 typedef struct {
